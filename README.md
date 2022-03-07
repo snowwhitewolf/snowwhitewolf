@@ -2,6 +2,7 @@ SSAFY 6기
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowwhitewolf&theme=dark&show_icons=true)
 
+예비 프론트엔드 개발자
 <!--
 **snowwhitewolf/snowwhitewolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
